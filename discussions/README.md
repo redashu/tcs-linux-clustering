@@ -1,1 +1,6 @@
-# tcs-linux-clustering
+## System or machine clustering 
+
+### Understanding clustering 
+
+<img src="cls.png">
+
