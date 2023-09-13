@@ -1,6 +1,16 @@
-# tcs-linux-clustering
+### revision with corosync 
 
-### Training plan 
+<img src="coro.png">
 
-<img src="plan.png">
+### Corosync in more detail
+
+### checking installation status
+
+<img src="check.png">
+
+### corosync config file 
+
+<img src="config.png">
+
+
 
