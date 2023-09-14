@@ -22,3 +22,7 @@
 
 <img src="pcsnfs.png">
 
+### more details 
+
+<img src="nfs1.png">
+
