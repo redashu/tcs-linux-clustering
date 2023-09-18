@@ -10,3 +10,11 @@
 <img src="order.png">
 
 
+### list and describing resources 
+
+<img src="dsc.png">
+
+### hosting a webapp by using resource group --
+
+<img src="rsg.png">
+
