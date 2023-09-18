@@ -18,3 +18,7 @@
 
 <img src="rsg.png">
 
+### Cmd for resource creation under a group 
+
+<img src="cmd.png">
+
