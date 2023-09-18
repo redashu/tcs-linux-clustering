@@ -1,5 +1,12 @@
 ### Revision 
 
 <img src="rev.png">
+### Introduction to resources
 
-![Uploading rev.png…]()
+<img src="res.png">
+
+## understanding resource groups and the resources order their 
+
+<img src="order.png">
+
+
