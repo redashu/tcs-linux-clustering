@@ -14,3 +14,7 @@
 
 <img src="st.png">
 
+### creating indepent resource and adding into agroup 
+
+<img src="add.png">
+
