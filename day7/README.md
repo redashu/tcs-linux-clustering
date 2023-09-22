@@ -1,6 +1,4 @@
-# tcs-linux-clustering
+### NFs as HA in PCS 
 
-### Training plan 
-
-<img src="plan.png">
+<img src="nfs.png">
 
