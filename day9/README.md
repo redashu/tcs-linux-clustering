@@ -1,6 +1,4 @@
-# tcs-linux-clustering
+## Revision 
 
-### Training plan 
-
-<img src="plan.png">
+<img src="rev.png">
 
