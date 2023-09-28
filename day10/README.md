@@ -1,6 +1,10 @@
-# tcs-linux-clustering
+## 
 
-### Training plan 
+### Constraints in pcs cluster 
 
-<img src="plan.png">
+<img src="pcs1.png">
+
+### type of constraint 
+
+<img src="pcs2.png">
 
