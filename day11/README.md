@@ -1,6 +1,14 @@
-# tcs-linux-clustering
+### Creating resources with constrants 
 
-### Training plan 
+### creating FS resource
 
-<img src="plan.png">
+<img src="fs1.png">
+
+### adding location constraints
+
+<img src="addc.png">
+
+### checking status of preferense
+
+<img src="cr.png">
 
